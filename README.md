@@ -35,8 +35,7 @@
 - **IIIT Ranchi** | BTech CSE (2022–2026)  
 - Relevant Coursework: DBMS, Algorithms, Web Development, OOPs
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=titanslayer2746&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanslayer2746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=titanslayer2746&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanslayer2746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 Let's Connect!
