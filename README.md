@@ -42,4 +42,4 @@
 
 ### 📫 Let's Connect!
 - I'm actively looking for **MERN/Backend/Frontend Internships** in 2025!  
-- [Resume](https://drive.google.com/file/d/1_c8IYClywkCU3v0uGu4_ckE2iHYL5wBa/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/yatin-kumar-9a551b256/) | [Email](mailto:kumaryatin449@gmail.com)
+- [Resume](https://drive.google.com/file/d/1UnDq5xS1In8tMACnxGVS1kFPdOfRksb8/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/yatin-kumar-9a551b256/) | [Email](mailto:kumaryatin449@gmail.com)
