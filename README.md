@@ -35,11 +35,6 @@
 - **IIIT Ranchi** | BTech CSE (2022–2026)  
 - Relevant Coursework: DBMS, Algorithms, Web Development, OOPs
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=titanslayer2746&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanslayer2746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Yatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanslayer2746&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-
-
-
 ### 📫 Let's Connect!
 - I'm actively looking for **MERN/Backend/Frontend Internships** in 2025!  
 - [Resume](https://drive.google.com/file/d/1UnDq5xS1In8tMACnxGVS1kFPdOfRksb8/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/yatin-kumar-9a551b256/) | [Email](mailto:kumaryatin449@gmail.com)
