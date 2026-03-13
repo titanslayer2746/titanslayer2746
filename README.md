@@ -21,8 +21,8 @@
 ## About Me
 
 👋 Hi! I'm **Yatin Kumar**, a **Next.js Developer** and 4th-year CSE student at IIIT Ranchi.  
-🚀 Actively seeking **internships** to build scalable web solutions.  
-📚 Competitive Programming | Backend Development | Problem Solving
+🚀 Actively seeking full time **SDE-1** to build scalable web solutions.  
+📚 Software Development | Backend Development | Problem Solving
 
 ---
 
@@ -88,7 +88,7 @@
 
 <div align="center">
   
-  [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1UnDq5xS1In8tMACnxGVS1kFPdOfRksb8/view?usp=sharing)
+  [![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1UlJi6wmax3uug_Je8cYR0xoRwJ91rRip/view?usp=drive_link)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yatin-kumar-9a551b256/)
   [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:kumaryatin449@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/titanslayer2746)
